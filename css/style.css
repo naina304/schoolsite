@@ -1,0 +1,12 @@
+.pika{
+    padding-top: 10px;
+    display: flex;
+    column-gap: 20px;
+}
+.pika img{
+    border-radius: 20px;
+}
+.pika p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
