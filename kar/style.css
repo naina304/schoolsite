@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+padding: 0px;
+}
+
+.browse{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+#jeffrey{font-weight: 200;
+    font-size: 20px;
+    color: rgb(23, 132, 136);
+}
+.icons{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    color: rgb(108, 189, 27);
+    padding: 50px;
+    margin: 60px;
+    column-gap: 40px;
+}
+#arts{
+    color: rgb(139, 7, 117);
+}
+#icon{
+    background-color: rgb(235, 255, 213);
+}
+#icon1{
+    background-color: rgb(235, 255, 213);
+}
+#icon2{
+    background-color: rgb(221, 204, 253);
+}
+
+.instructor{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    padding: 50px;
+    margin: 60px;
+    column-gap: 40px;
+    font-size: 18px;
+    font-weight: 500px;
+    font-family: "Poppins", sans-serif;
+
+}
+
+
+
